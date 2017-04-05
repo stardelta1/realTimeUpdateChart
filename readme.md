@@ -1,0 +1,1 @@
+![Real time update graph example](https://github.com/stardelta1/realTimeUpdateChart/blob/master/real-time-graph.PNG)
